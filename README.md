@@ -1,3 +1,9 @@
+## 安装 nerd 字体
+
+https://link.juejin.cn/?target=https%3A%2F%2Fwww.nerdfonts.com%2Ffont-downloads
+
+下载后，更换 termimal 里的字体即可。
+
 ## 需要手动安装的依赖（插件用）
 
 ### rigpgrep
