@@ -39,6 +39,8 @@ packer.startup({
     -- use("lewis6991/impatient.nvim")
     -- use("nathom/filetype.nvim")
 
+    -- navigator for tmux & nvim
+    use("christoomey/vim-tmux-navigator")
     -- nvim-notify
     use({
       "rcarriga/nvim-notify",
